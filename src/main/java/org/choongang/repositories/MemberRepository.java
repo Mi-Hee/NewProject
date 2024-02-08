@@ -1,7 +1,6 @@
 package org.choongang.repositories;
 
 import org.choongang.entities.Member;
-//import org.choongang.entities.QMember;
 import org.choongang.entities.QMember;
 import org.springframework.data.jpa.repository.JpaRepository;
 
